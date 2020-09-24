@@ -1,4 +1,4 @@
 # dissertation
 dissertation
 
-* you need linpack to run the code.
+* you need Lapack to run the code.
